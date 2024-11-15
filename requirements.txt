@@ -1,0 +1,16 @@
+fastapi
+fastapi-mail
+gunicorn
+passlib
+pydantic
+python-multipart
+SQLAlchemy
+uvicorn
+bcrypt
+pyotp
+pyqrcode
+pypng
+pyparsing
+PyJWT
+python-decouple
+fastapi-pagination
