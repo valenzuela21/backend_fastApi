@@ -6,6 +6,28 @@ This is to get the token or you can create a new user:
 <p>email: vlzdavid12@outlook.com</p>
 <p>password: 123456</p>
 
+<p>For the app to work correctly, it is necessary to insert products with their category and brand.</p>
+
+```
+Brand Body
+{
+  "name": "string"
+}
+Category Body
+{
+  "name": "string"
+}
+Product Body
+{
+  "name": "Maleta Totto",
+  "description": "Esta es una linda maleta totto",
+  "category_id": 1,
+  "brand_id": 1,
+  "price": 2.5,
+  "rating": 2.5
+}
+
+```
 
 ## Set Up a Virtual Environment
 ```
