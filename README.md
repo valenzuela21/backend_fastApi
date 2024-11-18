@@ -11,3 +11,23 @@ python3 -m venv venv
 python -m venv venv
 
 ```
+## Activate the virtual environment:
+
+```
+# On Linux/macOS
+source venv/bin/activate
+
+# On Windows
+venv\Scripts\activate
+```
+
+## Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+## Run
+```
+uvicorn main:app --reload
+```
