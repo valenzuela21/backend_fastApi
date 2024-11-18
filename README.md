@@ -8,20 +8,20 @@ This is to get the token or you can create a new user:
 
 <p>For the app to work correctly, it is necessary to insert products with their category and brand.</p>
 
-##Brand Body
+## Brand Body
 ```
 {
   "name": "string"
 }
 
 ```
-##Category Body
+## Category Body
 ```
 {
   "name": "string"
 }
 ```
-##Product Body
+## Product Body
 ```
 {
   "name": "Maleta Totto",
