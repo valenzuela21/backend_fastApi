@@ -1,4 +1,4 @@
-# Fast Api Crud
+# Fast Api Crud With JWT
 
 Url demo [Here](https://fastapi-example-zkqn.onrender.com/docs)
 
