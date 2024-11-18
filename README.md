@@ -2,6 +2,10 @@
 
 Url demo [Here](https://fastapi-example-zkqn.onrender.com/docs)
 
+This is to get the token or you can create a new user:
+email: vlzdavid12@outlook.com
+password: 123456
+
 
 ## Set Up a Virtual Environment
 ```
