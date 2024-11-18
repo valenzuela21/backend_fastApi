@@ -11,14 +11,14 @@ This is to get the token or you can create a new user:
 ## Brand Body
 ```
 {
-  "name": "string"
+  "name": "Toto"
 }
 
 ```
 ## Category Body
 ```
 {
-  "name": "string"
+  "name": "Accesorios"
 }
 ```
 ## Product Body
