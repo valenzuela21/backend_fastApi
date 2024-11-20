@@ -22,6 +22,7 @@ This is to get the token or you can create a new user:
 }
 ```
 ## Product Body
+<p>Note: Remember to fill in the products as it is a free server, the provider deletes this data which is temporary data in the sqlite database</p>
 ```
 {
   "name": "Maleta Totto",
