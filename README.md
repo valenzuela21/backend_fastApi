@@ -22,7 +22,7 @@ This is to get the token or you can create a new user:
 }
 ```
 ## Product Body
-<p>Note: Remember to fill in the products as it is a free server, the provider deletes this data which is temporary data in the sqlite database</p>
+<p>Please remember to insert the products as required. Keep in mind that since this is a free server, the provider periodically deletes temporary data stored in the SQLite database.</p>
 
 ```
 {
